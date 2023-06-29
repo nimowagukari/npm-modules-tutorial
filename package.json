@@ -1,0 +1,19 @@
+{
+  "name": "npm-modules-tutorial",
+  "version": "0.1.0",
+  "description": "nimowagukari's test module for study of npm modules.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nimowagukari/npm-modules-tutorial.git"
+  },
+  "author": "nimowagukari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nimowagukari/npm-modules-tutorial/issues"
+  },
+  "homepage": "https://github.com/nimowagukari/npm-modules-tutorial#readme"
+}
