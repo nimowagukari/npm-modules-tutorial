@@ -1,5 +1,6 @@
 {
   "name": "npm-modules-tutorial",
+  "type": "module",
   "version": "0.1.0",
   "description": "nimowagukari's test module for study of npm modules.",
   "main": "index.js",
