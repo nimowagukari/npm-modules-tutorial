@@ -15,7 +15,8 @@
 		"vscode": {
 			"extensions": [
 				"esbenp.prettier-vscode",
-				"dbaeumer.vscode-eslint"
+				"dbaeumer.vscode-eslint",
+				"Orta.vscode-jest"
 			]
 		}
 	}
