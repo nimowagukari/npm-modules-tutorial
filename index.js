@@ -1,3 +1,3 @@
-export default function echo(msg) {
-    return msg
+module.exports = function echo(msg) {
+  return msg;
 };
