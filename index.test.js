@@ -5,6 +5,6 @@ test.each([
   [0, "hoge"],
   [1, 123],
   [2, true],
-])("echo input value", (i, a) => {
+])("echo input value %i: %s", (i, a) => {
   expect(echoMock(a)).toBe(echoMock.mock.calls[i][0]);
 });
